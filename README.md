@@ -1,1 +1,1 @@
-This is Vagrant project from ALX program
+Vagrant project from ALX SE program
